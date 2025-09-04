@@ -89,7 +89,7 @@ The application addresses common challenges faced when working with CSV files, i
 
 ### Option 1: Direct Browser Usage
 
-1. Download the `csv_browser.html` file from this repository
+1. Download the `index.html` file from this repository
 2. Open the file in any modern web browser (Chrome, Firefox, Safari, Edge)
 3. No installation or configuration required
 
